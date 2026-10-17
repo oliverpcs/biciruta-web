@@ -21,3 +21,6 @@ Web de la tienda de bicicletas BiciRuta.
 ## Autor
 
 Oliver Planas-Carbajo Sandu
+
+
+Readme modificado en github
