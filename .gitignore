@@ -1,0 +1,9 @@
+# Carpeta de ajustes del editor
+.vscode/
+
+# Ficheros de registro
+*.log
+
+# Ficheros del sistema
+.DS_Store
+Thumbs.db
