@@ -17,3 +17,7 @@ Web de la tienda de bicicletas BiciRuta.
 2. Abrir index.html.
 3. Pulsar Go Live en la barra de abajo.
 4. Se abre en el navegador en http://127.0.0.1:5500
+
+## Autor
+
+Oliver Planas-Carbajo Sandu
